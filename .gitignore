@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+
+# Vitural Environment 
+env/
+
+# macOS
+.DS_Store
