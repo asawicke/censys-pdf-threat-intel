@@ -9,10 +9,9 @@ A FastAPI microservice that extracts threat actors and CVEs from PDF threat inte
 - Built with **FastAPI** and **pdfminer.six**
 
 ## Overview
-This service receives a PDF report, extracts text content, and identifies structured cybersecurity entities.  
-It’s designed as a minimal proof-of-concept for an AI-powered data extraction system.
+This AI-powered service receives a PDF report, extracts text content, and identifies structured cybersecurity entities.
 
-## Workflow
+## How it works
 1. Upload a PDF file via `/upload/`
 2. Text is extracted using `pdfminer.six`
 3. Regex-based logic identifies actors and CVEs
