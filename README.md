@@ -26,3 +26,5 @@ Then go to http://127.0.0.1:8000/
 
 ## Documentation
 FastAPI documentation https://fastapi.tiangolo.com/#requirements
+
+Thank you!!!
