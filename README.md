@@ -30,6 +30,7 @@ pip install fastapi uvicorn sqlalchemy pdfminer.six python-multipart
 ## Setup
 Run the FastAPI sever: 
 ```uvicorn main:app --reload```
+Go to http://127.0.0.1:8000/
 
 ## Documentation
 FastAPI documentation https://fastapi.tiangolo.com/#requirements
